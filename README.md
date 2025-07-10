@@ -13,8 +13,7 @@ Play as Player X or Player O, and enjoy a classic game of strategy and fun.
 ---
 
 ## 🚀 Live Demo
-
-If deployed, add your live link here:  
+ 
 👉 [Play Now](https://your-deployment-link.com)
 
 ---
